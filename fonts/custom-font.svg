@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2015 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="car" unicode="&#xe800;" d="m865 478v347h-730v-347h-60c-22 0-40-18-40-40v-350c0-20 18-38 40-38h5v-140c0-20 15-35 35-35h73c22 0 37 15 37 35v140h550v-140c0-20 15-35 35-35h73c20 0 35 15 35 35v140h7c23 0 40 18 40 40v350c0 23-17 40-40 40h-60z m-692 310h655v-293h-655v293z m10-598c-43 0-75 33-75 75s32 75 75 75 75-32 75-75-35-75-75-75z m560 75c0 43 32 75 75 75 42 0 75-32 75-75s-33-75-75-75c-40 0-75 33-75 75z" horiz-adv-x="1000" />
+<glyph glyph-name="arrows-ccw" unicode="&#xe801;" d="m186 140l116 116 0-292-276 16 88 86q-116 122-114 290t120 288q100 100 240 116l4-102q-100-16-172-88-88-88-90-213t84-217z m332 598l276-16-88-86q116-122 114-290t-120-288q-96-98-240-118l-2 104q98 16 170 88 88 88 90 213t-84 217l-114-116z" horiz-adv-x="820" />
+<glyph glyph-name="cancel" unicode="&#xe802;" d="m123 654l181-181 181 181 123-124-182-178 183-184-124-121-181 182-181-182-123 122 183 183-182 178z" horiz-adv-x="609" />
+<glyph glyph-name="th-list" unicode="&#xe803;" d="m160 660l0-161-160 0 0 161 160 0z m0-230l0-162-160 0 0 162 160 0z m0-230l0-160-160 0 0 160 160 0z m641 406l0-81-533 0 0 81 533 0z m0-230l0-81-533 0 0 81 533 0z m0-217l0-81-533 0 0 81 533 0z" horiz-adv-x="801" />
+<glyph glyph-name="ok" unicode="&#xe804;" d="m875 588l-535-600-340 338 123 124 196-195 420 457z" horiz-adv-x="875" />
+<glyph glyph-name="left-open" unicode="&#xe805;" d="m0 353l391 391q18 18 43 18 24 0 43-18 18-18 18-44t-18-43l-304-304 304-305q18-17 18-43t-18-43q-18-18-43-18t-43 18z" horiz-adv-x="495.1" />
+<glyph glyph-name="right-open" unicode="&#xe806;" d="m0 0q0 25 18 43l305 304-305 304q-18 18-18 44t18 43 44 18 43-18l390-391-390-391q-19-18-43-18t-44 18q-18 18-18 44z" horiz-adv-x="495.1" />
+<glyph glyph-name="star" unicode="&#xe807;" d="m320 445l99 303 99-303 320 0-259-187 99-306-259 188-260-188 100 306-259 187 320 0z" horiz-adv-x="838" />
+</font>
+</defs>
+</svg>
