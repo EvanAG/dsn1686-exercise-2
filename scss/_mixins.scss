@@ -1,0 +1,6 @@
+// Mixins
+
+@mixin boxshadow($x, $y, $z, $blur, $color){
+	box-shadow: $x $y $z $blur $color;
+}
+	

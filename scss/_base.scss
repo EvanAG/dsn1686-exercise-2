@@ -1,0 +1,20 @@
+// Variables
+
+/* are placeholsers for storing information that you want to reuse throughout your styles. You cans
+store things like colours, font-stacks, or any css value you think you might want to reuse.
+SCSS uses the '$' symbol to declare variables */
+
+$p-a: #d9d9d9;
+$white: #fff;
+$all-icons: #5E5E5E;
+$icon-car: #5C80BC;
+$icon-left-open: #FF66BC;
+$icon-arrows-ccw: #232323;
+$icon-right-open: #997FC6;
+$icon-th-list: #EF8354;
+$icon-star: #2D2D5B;
+$icon-ok: #ffca6d;
+
+// Font Stacks
+
+$droid: 'Droid', Arial, sans-serif;
